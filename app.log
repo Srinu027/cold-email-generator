@@ -1,0 +1,23 @@
+ERROR:root:Failed to generate email: sequence item 0: expected str instance, list found
+ERROR:root:Error: Failed to generate email: sequence item 0: expected str instance, list found
+ERROR:root:Failed to generate email: sequence item 0: expected str instance, list found
+ERROR:root:Error: Failed to generate email: sequence item 0: expected str instance, list found
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Invalid input for write_mail: links must be a non-empty list.
+ERROR:root:Error: Invalid input: links must be a non-empty list.
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Invalid input for write_mail: links must be a non-empty list.
+ERROR:root:Error: Invalid input: links must be a non-empty list.
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Error querying ChromaDB: 'list' object has no attribute 'get'
+ERROR:root:Portfolio file not found at: resource/my_portfolio.csv
+ERROR:root:Portfolio file not found at: C:\Users\SRINU\PycharmProjects\coldemail\resource\my_portfolio.csv
